@@ -3,22 +3,22 @@ body{
 }
 .clase1{
 	width: 50%;
-	height: 20vh;
-	background-color: red;
+	height: 40vh;
+	background-color: yellow;
 	text-transform: uppercase;
 
 }
 
 .clase2{
 	width: 50%;
-	height: 20vh;
-	background-color: yellow;
+	height: 50vh;
+	background-color: purple;
 	text-transform: uppercase;
 
 }
 .clase3{
 	width: 50%;
-	height: 20vh;
-	background-color: purple;
+	height: 30vh;
+	background-color: crismon;
 	text-transform: uppercase;
 }
