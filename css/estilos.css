@@ -1,0 +1,18 @@
+body{
+	background-color: turquoise;
+}
+.clase1{
+	width: 50%;
+	height: 20vh;
+	background-color: red;
+	text-transform: uppercase;
+
+}
+
+.clase2{
+	width: 50%;
+	height: 20vh;
+	background-color: yellow;
+	text-transform: uppercase;
+
+}
